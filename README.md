@@ -47,6 +47,6 @@ Create a non-nested dataframe with product, amount and country fields.
         
 Perform the below tasks on the created table :
 
-  - 1. Find total amount exported to each country of each product. 
+  -  Find total amount exported to each country of each product. 
 
-  - 2.Perform unpivot function on output of question 1. 
+  -  Perform unpivot function on output of above question. 
