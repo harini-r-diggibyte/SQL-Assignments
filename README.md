@@ -13,8 +13,9 @@ Create a table with data in the below structure:
   
 Perform the below tasks in the created table :
   
-    - Select firstname, lastname and salary from Dataframe. 
-
+  
+  - Select firstName,lastName and salary from dataFrame.
+  
   - Add Country, department, and age column in the dataframe. 
 
   - Change the value of salary column. 
