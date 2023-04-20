@@ -1,8 +1,10 @@
 # SQL-Assignments #
-This repository contains SQL Assignments in it.
+
+This repository contains SQL Assignments done using Spark and SSMS.
 
 ## SQL Assignments using Spark ##
 
+The Directories (SQL_1, SQL_2, SQL_3) contains Spark SQL Assignments respectively.
 
 ### SQL Assignment 1  (SQL_1) ###
 
@@ -74,4 +76,4 @@ Perform below tasks on the created dataFrame
 
 ## SQL Assignment using SSMS ##
 
-SSMS_SQL_Assignments contains SQL Assignments done using SSMS setup.
+SSMS_SQL_Assignments directory contains SQL Assignments done using SSMS setup.
