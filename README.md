@@ -67,3 +67,8 @@ Perform below tasks on the created dataFrame
   - Retrieve Employees who earns the highest salary. 
 
   - Select the highest, lowest, average, and total salary for each department group.  
+
+
+#### SQL Assignbment using SSMS ####
+
+This contains SQL Assignments done using SSMS setup.
