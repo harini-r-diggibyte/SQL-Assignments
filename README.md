@@ -50,3 +50,20 @@ Perform the below tasks on the created table :
   -  Find total amount exported to each country of each product. 
 
   -  Perform unpivot function on output of above question. 
+  
+  
+### SQL Assignment 3 ###
+
+Create a data frame with employee_name, department and salary. 
+
+Perform below tasks on the created dataFrame
+
+  - Select first row from each department group. 
+
+  - Create a Dataframe from Row and List of tuples. 
+
+  - Apply Schema while creating a Dataframe. 
+
+  - Retrieve Employees who earns the highest salary. 
+
+  - Select the highest, lowest, average, and total salary for each department group.  
