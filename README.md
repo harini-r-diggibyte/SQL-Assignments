@@ -1,4 +1,4 @@
-# SQL-Assignments
+# SQL-Assignments using Spark (SQL_1, SQL_2, SQL_3) #
 This repository contains SQL Assignments in it.
 
 ### SQL Assignment 1 ###
