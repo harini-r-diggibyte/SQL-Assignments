@@ -72,6 +72,6 @@ Perform below tasks on the created dataFrame
   - Select the highest, lowest, average, and total salary for each department group.  
 
 
-#### SQL Assignbment using SSMS ####
+## SQL Assignment using SSMS ##
 
 SSMS_SQL_Assignments contains SQL Assignments done using SSMS setup.
