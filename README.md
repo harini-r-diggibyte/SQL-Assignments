@@ -1,7 +1,7 @@
-# SQL-Assignments using Spark (SQL_1, SQL_2, SQL_3) #
+# SQL-Assignments using Spark #
 This repository contains SQL Assignments in it.
 
-### SQL Assignment 1 ###
+### SQL Assignment 1  (SQL_1) ###
 
 Create a table with data in the below structure:
 {"firstname":"James","middlename":"","lastname":"Smith"},"03011998","M",3000
@@ -33,7 +33,7 @@ Perform the below tasks in the created table :
   - List out distinct value of dob and salary 
   
   
-### SQL Assignment 2 ###
+### SQL Assignment 2 (SQL_2) ###
 
 Create a non-nested dataframe with product, amount and country fields. 
 
@@ -52,7 +52,7 @@ Perform the below tasks on the created table :
   -  Perform unpivot function on output of above question. 
   
   
-### SQL Assignment 3 ###
+### SQL Assignment 3 (SQL_3) ###
 
 Create a data frame with employee_name, department and salary. 
 
